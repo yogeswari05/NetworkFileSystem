@@ -16,10 +16,6 @@ This project involves the implementation of a distributed Network File System (N
    - [Search Optimization and Caching](#search-optimization-and-caching)
    - [Backup and Redundancy](#backup-and-redundancy)
 4. [Installation](#installation)
-5. [Running the System](#running-the-system)
-6. [Usage](#usage)
-7. [Logging and Debugging](#logging-and-debugging)
-8. [License](#license)
 
 ## Overview
 This project simulates a distributed NFS system where multiple clients interact with multiple storage servers through a naming server. The primary functions of the system are to manage file creation, reading, writing, deletion, and streaming over the network. The system is designed to be scalable and fault-tolerant, supporting asynchronous writes, multiple concurrent clients, and storage server replication for backup.
