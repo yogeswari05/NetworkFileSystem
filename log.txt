@@ -1,0 +1,96 @@
+Storage Server connected:  from IP: 10.2.143.206, PORT: 8888
+Client connected:  from IP: 10.2.143.206, PORT: 41410
+Storage Server connected:  from IP: 10.2.143.206, PORT: 8888
+Client connected:  from IP: 10.2.143.206, PORT: 37906
+Storage Server connected:  from IP: 10.2.143.206, PORT: 8888
+Client connected:  from IP: 10.2.143.206, PORT: 47490
+GET_SERVER fold1/smallfile.txt from IP: 10.2.143.206, PORT: 47490
+Client connected:  from IP: 10.2.143.206, PORT: 59302
+GET_SERVER ./fold1/smallfile.txt from IP: 10.2.143.206, PORT: 59302
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9998
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9991
+Client connected:  from IP: 10.2.143.206, PORT: 56444
+COPY ./fold1/fold11 ./fold2 from IP: 10.2.143.206, PORT: 56444
+File copy operation between different storage servers completed. from IP: 10.2.143.206, PORT: 9997
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9933
+Storage Server connected:  from IP: 10.2.143.206, PORT: 2991
+Client connected:  from IP: 10.2.143.206, PORT: 58784
+COPY ./fold1/fold11 ./fold2 from IP: 10.2.143.206, PORT: 58784
+File copy operation between different storage servers completed. from IP: 10.2.143.206, PORT: 9997
+GET_SERVER ./fold1/smallfile.txt from IP: 10.2.143.206, PORT: 58784
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9933
+Storage Server connected:  from IP: 10.2.143.206, PORT: 2991
+Client connected:  from IP: 10.2.143.206, PORT: 58534
+COPY ./fold1/fold11/fold12 ./fold2/fold1 from IP: 10.2.143.206, PORT: 58534
+File copy operation between different storage servers completed. from IP: 10.2.143.206, PORT: 9997
+GET_SERVER ./fold1/smallfile.txt from IP: 10.2.143.206, PORT: 58534
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9998
+Storage Server connected:  from IP: 10.2.143.206, PORT: 2998
+Client connected:  from IP: 10.2.143.206, PORT: 59818
+COPY ./fold1 ./fold2 from IP: 10.2.143.206, PORT: 59818
+File copy operation between different storage servers completed. from IP: 10.2.143.206, PORT: 9997
+COPY ./fold1 ./fold2 from IP: 10.2.143.206, PORT: 59818
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9998
+Storage Server connected:  from IP: 10.2.143.206, PORT: 2998
+Client connected:  from IP: 10.2.143.206, PORT: 34422
+COPY ./fold1 ./fold2 from IP: 10.2.143.206, PORT: 34422
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9933
+Storage Server connected:  from IP: 10.2.143.206, PORT: 2991
+Client connected:  from IP: 10.2.143.206, PORT: 35868
+COPY ./fold1 ./fold2 from IP: 10.2.143.206, PORT: 35868
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9998
+Storage Server connected:  from IP: 10.2.143.206, PORT: 2991
+Client connected:  from IP: 10.2.143.206, PORT: 43766
+COPY ./fold1 ./fold2 from IP: 10.2.143.206, PORT: 43766
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9933
+Storage Server connected:  from IP: 10.2.143.206, PORT: 2991
+Client connected:  from IP: 10.2.143.206, PORT: 41184
+COPY ./fold1 ./fold2 from IP: 10.2.143.206, PORT: 41184
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9998
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9990
+Client connected:  from IP: 10.2.143.206, PORT: 56620
+COPY ./fold1 ./fold2 from IP: 10.2.143.206, PORT: 56620
+File copy operation between different storage servers completed. from IP: 10.2.143.206, PORT: 9997
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9991
+Storage Server connected:  from IP: 10.2.143.206, PORT: 2990
+Client connected:  from IP: 10.2.143.206, PORT: 43000
+COPY ./fold1 ./fold2 from IP: 10.2.143.206, PORT: 43000
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9991
+Storage Server connected:  from IP: 10.2.143.206, PORT: 2990
+Client connected:  from IP: 10.2.143.206, PORT: 51136
+COPY ./fold1 ./fold2 from IP: 10.2.143.206, PORT: 51136
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9991
+Storage Server connected:  from IP: 10.2.143.206, PORT: 3990
+Client connected:  from IP: 10.2.143.206, PORT: 34790
+COPY ./fold1 ./fold2 from IP: 10.2.143.206, PORT: 34790
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9991
+Storage Server connected:  from IP: 10.2.143.206, PORT: 3990
+Client connected:  from IP: 10.2.143.206, PORT: 42200
+COPY ./fold1 ./fold2 from IP: 10.2.143.206, PORT: 42200
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9991
+Storage Server connected:  from IP: 10.2.143.206, PORT: 3990
+Client connected:  from IP: 10.2.143.206, PORT: 53236
+COPY ./fold1 ./fold2 from IP: 10.2.143.206, PORT: 53236
+COPY operation is successful. from IP: 10.2.143.206, PORT: 9994
+File copy operation between different storage servers completed. from IP: 10.2.143.206, PORT: 9997
+GET_SERVER ./fold1/smallfile.txt from IP: 10.2.143.206, PORT: 53236
+GET_SERVER ./fold1/smallfile.txt from IP: 10.2.143.206, PORT: 53236
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9991
+Storage Server connected:  from IP: 10.2.143.206, PORT: 3990
+Client connected:  from IP: 10.2.143.206, PORT: 44412
+GET_SERVER ./fold1/smallfile.txt from IP: 10.2.143.206, PORT: 44412
+GET_SERVER ./fold1/smallfile.txt from IP: 10.2.143.206, PORT: 44412
+Client connected:  from IP: 10.2.143.206, PORT: 54050
+GET_SERVER ./fold1/smallfile.txt from IP: 10.2.143.206, PORT: 54050
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9991
+Storage Server connected:  from IP: 10.2.143.206, PORT: 3990
+Client connected:  from IP: 10.2.143.206, PORT: 37378
+GET_SERVER ./fold1/smallfile.txt from IP: 10.2.143.206, PORT: 37378
+GET_SERVER ./fold1/smallfile.txt from IP: 10.2.143.206, PORT: 37378
+Storage Server connected:  from IP: 10.2.143.206, PORT: 9991
+Storage Server connected:  from IP: 10.2.143.206, PORT: 3990
+Client connected:  from IP: 10.2.143.206, PORT: 36050
+GET_SERVER ./fold1/smallfile.txt from IP: 10.2.143.206, PORT: 36050
+GET_SERVER ./fold1/smallfile.txt from IP: 10.2.143.206, PORT: 36050
+GET_SERVER ./fold1/smallfile.txt from IP: 10.2.143.206, PORT: 36050
+GET_SERVER ./fold1/smallfile.txt from IP: 10.2.143.206, PORT: 36050
